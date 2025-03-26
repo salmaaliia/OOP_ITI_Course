@@ -1,0 +1,15 @@
+- نحط وصف لكل طرف من اطراف المشكلة 
+	- مجموعة صفات
+	- مجموعة افعال 
+- class car{ 
+	- variables
+	- functions
+	}
+- Object is a physical representation from class
+- class is a logical representation
+- Abstraction 
+- Encapsulation
+- Inheritance
+- Polymorphism
+- كل ال objects الي طالعه من نفس ال class ليها نفس الصفات ولكن تختلف في القيم بتاعت الصفات
+- 
